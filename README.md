@@ -1,11 +1,6 @@
 # Scanning-corporate-infrastructure
 # Практика №2. Сканирование корпоративной инфраструктуры
 
-<aside>
-<img src="https://www.notion.so/icons/chevrons-vertical_gray.svg" alt="https://www.notion.so/icons/chevrons-vertical_gray.svg" width="40px" /> **Navigation**
-
-</aside>
-
 ## Задание к практической работе №2
 
 ---
